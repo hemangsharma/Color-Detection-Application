@@ -27,6 +27,9 @@ python color_detection.py -i path/to/your/image.jpg
 ```
 
 Replace path/to/your/image.jpg with the actual path to the image file you want to use.
+# Screenshot
+
+![Screenshot](screenshot.png)
 
 # How It Works
 - **Load Image:** The script loads the image specified in the command line argument. If the image cannot be loaded, it prints an error message and exits.
